@@ -1,0 +1,285 @@
+Person node_id: 168
+<-----Mysql----->
+Depth 1 runtime: ms 395.0
+Depth 2 runtime: ms 12.0
+Depth 3 runtime: ms 20.0
+Depth 4 runtime: ms 110.0
+Depth 5 runtime: ms 397.0
+<-----Neo4j----->
+Depth 1 runtime: ms 426.0
+Depth 2 runtime: ms 74.0
+Depth 3 runtime: ms 117.0
+Depth 4 runtime: ms 186.0
+Depth 5 runtime: ms 225.0
+-------------------------------------------------
+Person node_id: 110
+<-----Mysql----->
+Depth 1 runtime: ms 8.0
+Depth 2 runtime: ms 8.0
+Depth 3 runtime: ms 8.0
+Depth 4 runtime: ms 9.0
+Depth 5 runtime: ms 10.0
+<-----Neo4j----->
+Depth 1 runtime: ms 90.0
+Depth 2 runtime: ms 70.0
+Depth 3 runtime: ms 87.0
+Depth 4 runtime: ms 86.0
+Depth 5 runtime: ms 86.0
+-------------------------------------------------
+Person node_id: 36
+<-----Mysql----->
+Depth 1 runtime: ms 10.0
+Depth 2 runtime: ms 23.0
+Depth 3 runtime: ms 32.0
+Depth 4 runtime: ms 176.0
+Depth 5 runtime: ms 738.0
+<-----Neo4j----->
+Depth 1 runtime: ms 62.0
+Depth 2 runtime: ms 68.0
+Depth 3 runtime: ms 111.0
+Depth 4 runtime: ms 116.0
+Depth 5 runtime: ms 237.0
+-------------------------------------------------
+Person node_id: 107
+<-----Mysql----->
+Depth 1 runtime: ms 8.0
+Depth 2 runtime: ms 9.0
+Depth 3 runtime: ms 67.0
+Depth 4 runtime: ms 133.0
+Depth 5 runtime: ms 615.0
+<-----Neo4j----->
+Depth 1 runtime: ms 68.0
+Depth 2 runtime: ms 80.0
+Depth 3 runtime: ms 133.0
+Depth 4 runtime: ms 116.0
+Depth 5 runtime: ms 207.0
+-------------------------------------------------
+Person node_id: 153
+<-----Mysql----->
+Depth 1 runtime: ms 6.0
+Depth 2 runtime: ms 7.0
+Depth 3 runtime: ms 67.0
+Depth 4 runtime: ms 184.0
+Depth 5 runtime: ms 892.0
+<-----Neo4j----->
+Depth 1 runtime: ms 69.0
+Depth 2 runtime: ms 88.0
+Depth 3 runtime: ms 120.0
+Depth 4 runtime: ms 140.0
+Depth 5 runtime: ms 282.0
+-------------------------------------------------
+Person node_id: 56
+<-----Mysql----->
+Depth 1 runtime: ms 10.0
+Depth 2 runtime: ms 6.0
+Depth 3 runtime: ms 15.0
+Depth 4 runtime: ms 8.0
+Depth 5 runtime: ms 7.0
+<-----Neo4j----->
+Depth 1 runtime: ms 70.0
+Depth 2 runtime: ms 83.0
+Depth 3 runtime: ms 98.0
+Depth 4 runtime: ms 63.0
+Depth 5 runtime: ms 84.0
+-------------------------------------------------
+Person node_id: 104
+<-----Mysql----->
+Depth 1 runtime: ms 20.0
+Depth 2 runtime: ms 27.0
+Depth 3 runtime: ms 52.0
+Depth 4 runtime: ms 20.0
+Depth 5 runtime: ms 39.0
+<-----Neo4j----->
+Depth 1 runtime: ms 62.0
+Depth 2 runtime: ms 82.0
+Depth 3 runtime: ms 86.0
+Depth 4 runtime: ms 88.0
+Depth 5 runtime: ms 199.0
+-------------------------------------------------
+Person node_id: 7
+<-----Mysql----->
+Depth 1 runtime: ms 6.0
+Depth 2 runtime: ms 11.0
+Depth 3 runtime: ms 89.0
+Depth 4 runtime: ms 273.0
+Depth 5 runtime: ms 1323.0
+<-----Neo4j----->
+Depth 1 runtime: ms 77.0
+Depth 2 runtime: ms 118.0
+Depth 3 runtime: ms 146.0
+Depth 4 runtime: ms 154.0
+Depth 5 runtime: ms 410.0
+-------------------------------------------------
+Person node_id: 113
+<-----Mysql----->
+Depth 1 runtime: ms 6.0
+Depth 2 runtime: ms 6.0
+Depth 3 runtime: ms 10.0
+Depth 4 runtime: ms 9.0
+Depth 5 runtime: ms 8.0
+<-----Neo4j----->
+Depth 1 runtime: ms 72.0
+Depth 2 runtime: ms 72.0
+Depth 3 runtime: ms 79.0
+Depth 4 runtime: ms 112.0
+Depth 5 runtime: ms 70.0
+-------------------------------------------------
+Person node_id: 2
+<-----Mysql----->
+Depth 1 runtime: ms 5.0
+Depth 2 runtime: ms 4.0
+Depth 3 runtime: ms 4.0
+Depth 4 runtime: ms 13.0
+Depth 5 runtime: ms 8.0
+<-----Neo4j----->
+Depth 1 runtime: ms 61.0
+Depth 2 runtime: ms 68.0
+Depth 3 runtime: ms 82.0
+Depth 4 runtime: ms 74.0
+Depth 5 runtime: ms 84.0
+-------------------------------------------------
+Person node_id: 113
+<-----Mysql----->
+Depth 1 runtime: ms 10.0
+Depth 2 runtime: ms 7.0
+Depth 3 runtime: ms 6.0
+Depth 4 runtime: ms 6.0
+Depth 5 runtime: ms 9.0
+<-----Neo4j----->
+Depth 1 runtime: ms 64.0
+Depth 2 runtime: ms 68.0
+Depth 3 runtime: ms 65.0
+Depth 4 runtime: ms 62.0
+Depth 5 runtime: ms 66.0
+-------------------------------------------------
+Person node_id: 166
+<-----Mysql----->
+Depth 1 runtime: ms 9.0
+Depth 2 runtime: ms 14.0
+Depth 3 runtime: ms 26.0
+Depth 4 runtime: ms 141.0
+Depth 5 runtime: ms 540.0
+<-----Neo4j----->
+Depth 1 runtime: ms 70.0
+Depth 2 runtime: ms 68.0
+Depth 3 runtime: ms 80.0
+Depth 4 runtime: ms 146.0
+Depth 5 runtime: ms 202.0
+-------------------------------------------------
+Person node_id: 97
+<-----Mysql----->
+Depth 1 runtime: ms 10.0
+Depth 2 runtime: ms 13.0
+Depth 3 runtime: ms 91.0
+Depth 4 runtime: ms 200.0
+Depth 5 runtime: ms 880.0
+<-----Neo4j----->
+Depth 1 runtime: ms 65.0
+Depth 2 runtime: ms 76.0
+Depth 3 runtime: ms 117.0
+Depth 4 runtime: ms 154.0
+Depth 5 runtime: ms 317.0
+-------------------------------------------------
+Person node_id: 33
+<-----Mysql----->
+Depth 1 runtime: ms 5.0
+Depth 2 runtime: ms 52.0
+Depth 3 runtime: ms 80.0
+Depth 4 runtime: ms 227.0
+Depth 5 runtime: ms 1244.0
+<-----Neo4j----->
+Depth 1 runtime: ms 65.0
+Depth 2 runtime: ms 109.0
+Depth 3 runtime: ms 147.0
+Depth 4 runtime: ms 119.0
+Depth 5 runtime: ms 381.0
+-------------------------------------------------
+Person node_id: 137
+<-----Mysql----->
+Depth 1 runtime: ms 5.0
+Depth 2 runtime: ms 6.0
+Depth 3 runtime: ms 11.0
+Depth 4 runtime: ms 88.0
+Depth 5 runtime: ms 336.0
+<-----Neo4j----->
+Depth 1 runtime: ms 76.0
+Depth 2 runtime: ms 61.0
+Depth 3 runtime: ms 69.0
+Depth 4 runtime: ms 116.0
+Depth 5 runtime: ms 167.0
+-------------------------------------------------
+Person node_id: 99
+<-----Mysql----->
+Depth 1 runtime: ms 5.0
+Depth 2 runtime: ms 5.0
+Depth 3 runtime: ms 6.0
+Depth 4 runtime: ms 18.0
+Depth 5 runtime: ms 75.0
+<-----Neo4j----->
+Depth 1 runtime: ms 67.0
+Depth 2 runtime: ms 75.0
+Depth 3 runtime: ms 73.0
+Depth 4 runtime: ms 88.0
+Depth 5 runtime: ms 134.0
+-------------------------------------------------
+Person node_id: 84
+<-----Mysql----->
+Depth 1 runtime: ms 14.0
+Depth 2 runtime: ms 18.0
+Depth 3 runtime: ms 13.0
+Depth 4 runtime: ms 18.0
+Depth 5 runtime: ms 16.0
+<-----Neo4j----->
+Depth 1 runtime: ms 65.0
+Depth 2 runtime: ms 88.0
+Depth 3 runtime: ms 115.0
+Depth 4 runtime: ms 106.0
+Depth 5 runtime: ms 82.0
+-------------------------------------------------
+Person node_id: 180
+<-----Mysql----->
+Depth 1 runtime: ms 10.0
+Depth 2 runtime: ms 15.0
+Depth 3 runtime: ms 57.0
+Depth 4 runtime: ms 48.0
+Depth 5 runtime: ms 296.0
+<-----Neo4j----->
+Depth 1 runtime: ms 96.0
+Depth 2 runtime: ms 67.0
+Depth 3 runtime: ms 65.0
+Depth 4 runtime: ms 114.0
+Depth 5 runtime: ms 172.0
+-------------------------------------------------
+Person node_id: 24
+<-----Mysql----->
+Depth 1 runtime: ms 6.0
+Depth 2 runtime: ms 9.0
+Depth 3 runtime: ms 66.0
+Depth 4 runtime: ms 184.0
+Depth 5 runtime: ms 875.0
+<-----Neo4j----->
+Depth 1 runtime: ms 78.0
+Depth 2 runtime: ms 64.0
+Depth 3 runtime: ms 124.0
+Depth 4 runtime: ms 153.0
+Depth 5 runtime: ms 280.0
+-------------------------------------------------
+Person node_id: 7
+<-----Mysql----->
+Depth 1 runtime: ms 5.0
+Depth 2 runtime: ms 53.0
+Depth 3 runtime: ms 84.0
+Depth 4 runtime: ms 264.0
+Depth 5 runtime: ms 1370.0
+<-----Neo4j----->
+Depth 1 runtime: ms 65.0
+Depth 2 runtime: ms 73.0
+Depth 3 runtime: ms 123.0
+Depth 4 runtime: ms 125.0
+Depth 5 runtime: ms 366.0
+-------------------------Times-------------------------
+-------------------------Mysql-------------------------
+|Min: 4.0ms |Max: 1370.0ms |Avg: 134.69ms |Med: 15.0ms |
+-----------------------Neo4j-------------------------
+|Min: 61.0ms |Max: 426.0ms |Avg: 117.26ms |Med: 86.0ms |
+-------------------------------------------------------
